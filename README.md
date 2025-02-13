@@ -15,11 +15,9 @@ Welcome to my GitHub! I'm **Jeverly**, a beginner developer always exploring new
 
 ## 🛠️ Technologies & Tools
 - React & React Native
-- Firebase Authentication
+- Google Firebase
 - JavaScript & TypeScript
-- Arduino & Robotics
-- UI/UX & Animations
-- JavaScript
+- UI/UX
 - NextJS
 - ExpressJS
 
