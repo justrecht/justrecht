@@ -1,11 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub! I'm **Jeverly**, a beginner developer always exploring new technologies and building cool projects.
-
-## 🚀 About Me
-- 💻 Web & Mobile Developer
-- 🎨 Minimalist UI Enthusiast
-- 🚀 Always learning and improving
+Welcome to my GitHub! I'm **Jeverly**, a beginner developer always exploring new technologies and building cool projects (maybe).
 
 ## 🌐 Connect with Me
 
