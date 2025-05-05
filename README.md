@@ -54,11 +54,11 @@
 
 ### GroWell (Changing name soon)
 > A growth tracking mobile app build in expo to help parents prevent stunting.
-[![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-repo-link)
+[![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/growell)
 
 ### Spend.ly
 > A web-app money tracker that let you track your transactions, add wallet, etc.
-[![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-repo-link)
+[![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/spend.ly)
 
 ## 📫 Let's Connect!
 
