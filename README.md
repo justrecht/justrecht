@@ -21,10 +21,9 @@ const jeverly = {
 };
 ```
 
-- 🔭 Currently enhancing my **full-stack development** skills
-- 🌱 Exploring **React architecture** patterns and **state management** solutions
-- 👯 Open to collaborating on innovative projects with positive impact
-- 💬 Let's talk about React, JavaScript, or UI/UX design!
+Hello !, I'm a full-stack web and Mobile app developer, I'm now currently mastering backend using ExpressJS
+My next goal is to learn more about Artificial Intelligence, especially in Machine Learning
+Hope you enjoy visiting my profile ! :)
 
 <br>
 
