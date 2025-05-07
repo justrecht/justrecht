@@ -83,20 +83,12 @@ const jeverly = {
 
 [![Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/spend.ly)
 
+</div><br>
+<strong>I'm always interested in new opportunities and collaborations. Feel free to reach out!</strong>
+  <br>
+  <br>
+<q>The only way to do great work is to love what you do.</q> - Steve Jobs
+  <br>
+⭐️ From Jeverly
 </div>
-
-<br>
-  
-  <strong>I'm always interested in new opportunities and collaborations. Feel free to reach out!</strong>
-  
-  <br>
-  <br>
-  
-  <q>The only way to do great work is to love what you do.</q> - Steve Jobs
-  
-  <br>
-  
-  ⭐️ From [Jeverly](https://github.com/jeverlyro)
-</div>
-
 <!-- This README was designed with ❤️ by Jeverly -->
