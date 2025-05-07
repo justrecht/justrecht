@@ -86,16 +86,6 @@ const jeverly = {
 </div>
 
 <br>
-
-## 📫 Let's Connect!
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="45" height="45"/>
-  
-  <br>
-  <br>
   
   <strong>I'm always interested in new opportunities and collaborations. Feel free to reach out!</strong>
   
