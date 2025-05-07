@@ -21,8 +21,8 @@ const jeverly = {
 };
 ```
 
-Hello !, I'm a full-stack web and Mobile app developer, I'm now currently mastering backend using ExpressJS
-My next goal is to learn more about Artificial Intelligence, especially in Machine Learning
+Hello !, I'm a full-stack web and Mobile app developer, I'm now currently mastering backend using ExpressJS <br>
+My next goal is to learn more about Artificial Intelligence, especially in Machine Learning <br>
 Hope you enjoy visiting my profile ! :)
 
 <br>
