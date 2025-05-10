@@ -78,7 +78,7 @@ Hope you enjoy visiting my profile ! :)
 ### Spend.ly 💰
 > A web-app money tracker that lets you monitor transactions and manage multiple wallets
 
-[![Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/spend.ly)
+[![Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jeverlyro/spend.ly)
 
 </div><br>
 
