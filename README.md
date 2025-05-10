@@ -27,7 +27,7 @@ Hope you enjoy visiting my profile ! :)
 
 <br>
 
-## 🛠️ Tech Stack
+## 🛠️ Tech I Used (for now)
 
 <div align="center">
 
