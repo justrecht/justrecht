@@ -3,7 +3,6 @@
 
   [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/366208551158415361)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/jeverlyro)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/roserru2)
   ![Profile Views](https://komarev.com/ghpvc/?username=jeverlyro&style=flat-square&color=2F81F7)
 </div>
 
