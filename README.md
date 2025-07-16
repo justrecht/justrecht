@@ -26,7 +26,7 @@ Hope you enjoy visiting my profile ! :)
 
 <br>
 
-## Tech I Use
+## Tech Used
 
 <div align="center">
 
