@@ -52,41 +52,4 @@ Hope you enjoy visiting my profile ! :)
 </div>
 
 <br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeverlyro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=true&bg_color=0D1117"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeverlyro&layout=compact&langs_count=7&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0D1117"/>
-  
-  <img width="580em" src="https://github-readme-streak-stats.herokuapp.com/?user=jeverlyro&theme=tokyonight&hide_border=true&background=0D1117&stroke=2F81F7&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7"/>
-</div>
-
-<br>
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-### GroWell 📱
-> A growth tracking mobile app built with Expo to help parents prevent stunting in children
-
-[![Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/growell)
-
-### Spend.ly 💰
-> A web-app money tracker that lets you monitor transactions and manage multiple wallets
-
-[![Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jeverlyro/spend.ly)
-
-</div><br>
-
-<div align="center">
-<strong>I'm always interested in new opportunities and collaborations. Feel free to reach out!</strong>
-  <br>
-  <br>
-<q>The only way to do great work is to love what you do.</q> - Steve Jobs
-  <br>
-⭐️ From Jeverly
-</div>
 <!-- This README was designed with ❤️ by Jeverly -->
