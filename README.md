@@ -8,7 +8,7 @@
 
 <br>
 
-## 👨‍💻 About Me
+## About Me
 
 ```typescript
 const jeverly = {
@@ -26,7 +26,7 @@ Hope you enjoy visiting my profile ! :)
 
 <br>
 
-## 🛠️ Tech I Use
+## Tech I Use
 
 <div align="center">
 
