@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=DM+Sans&size=32&duration=3000&pause=1000&color=f3f3f3&center=true&vCenter=true&width=450&lines=Hello,+I'm+Jeverly;Full-Stack+Developer;UI%2FUX;Mobile-App" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=DM+Sans&size=32&duration=3000&pause=1000&color=f3f3f3&center=true&vCenter=true&width=450&lines=Hello,+I'm+Jeverly;Full-Stack+Developer;Beginner+Game+Dev;UI%2FUX;Mobile-App" alt="Typing SVG" />
 
   [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/366208551158415361)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/jeverlyro)
