@@ -9,17 +9,6 @@
 <br>
 
 ## About Me
-
-```typescript
-const jeverly = {
-  passion: "Building intuitive user experiences with clean code",
-  focus: ["Web Development", "Mobile Apps", "UI/UX Design"],
-  currentlyLearning: ["Advanced React Patterns", "TypeScript Best Practices"],
-  lookingToCollaborate: true,
-  message: "Let's build something amazing together!"
-};
-```
-
 Hello !, I'm a full-stack web and Mobile app developer, I'm now currently mastering backend using ExpressJS <br>
 My next goal is to learn more about Artificial Intelligence, especially in Machine Learning <br>
 Hope you enjoy visiting my profile ! :)
