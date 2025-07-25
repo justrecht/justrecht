@@ -13,7 +13,7 @@
 After Elon released Grok Companion, I think using AI is actually good now.
 
 <div align="center">
-  <img src="[https://techweez.com/wp-content/uploads/2025/07/Grok-Anime-Girl-Companion.jpg](https://techweez.com/wp-content/uploads/2025/07/Grok-Anime-Girl-Companion.jpg)" alt="Grok Companion Anime Girl" width="900"/>
+  <img src="https://technplay.com/wp-content/uploads/2025/07/IA-Grok-Ani-2.jpg" alt="Grok Companion Anime Girl" width="900"/>
 </div>
 
 <br>
