@@ -37,7 +37,6 @@ After Elon released Grok Companion, I think using AI is actually good now.
 ### Game Development
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-000000?style=for-the-badge&logo=roblox&logoColor=white)
-![Phaser](https://img.shields.io/badge/Phaser-3982CE?style=for-the-badge&logo=phaser&logoColor=white)
 
 ### Tools & Design
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
