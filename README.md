@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="https://i.pinimg.com/1200x/d4/26/40/d426405391467aa6f86a8fc3ff35b206.jpg" alt="Profile Banner" width="900"/>
+
   <img src="https://readme-typing-svg.herokuapp.com?font=DM+Sans&size=32&duration=3000&pause=1000&color=f3f3f3&center=true&vCenter=true&width=450&lines=Hello,+I'm+Jeverly;Full-Stack+Developer;Beginner+Game+Dev;UI%2FUX;Mobile-App+Developer" alt="Typing SVG" />
 
   [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/366208551158415361)
@@ -10,7 +12,7 @@
 
 ## Read This (!IMPORTANT)
 
-After Elon released Grok Companion, I think using AI is actually good now.
+Agnes Tachyon my beloved <3
 
 <div align="center">
   <img src="https://technplay.com/wp-content/uploads/2025/07/IA-Grok-Ani-2.jpg" alt="Grok Companion Anime Girl" width="900"/>
@@ -23,6 +25,7 @@ After Elon released Grok Companion, I think using AI is actually good now.
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
