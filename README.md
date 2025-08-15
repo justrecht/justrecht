@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/1200x/d4/26/40/d426405391467aa6f86a8fc3ff35b206.jpg" alt="Profile Banner" width="900"/>
+  
 
   <img src="https://readme-typing-svg.herokuapp.com?font=DM+Sans&size=32&duration=3000&pause=1000&color=f3f3f3&center=true&vCenter=true&width=450&lines=Hello,+I'm+Jeverly;Full-Stack+Developer;Beginner+Game+Dev;UI%2FUX;Mobile-App+Developer" alt="Typing SVG" />
 
@@ -15,7 +15,7 @@
 Agnes Tachyon my beloved <3
 
 <div align="center">
-  <img src="https://technplay.com/wp-content/uploads/2025/07/IA-Grok-Ani-2.jpg" alt="Grok Companion Anime Girl" width="900"/>
+  <img src="https://i.pinimg.com/1200x/d4/26/40/d426405391467aa6f86a8fc3ff35b206.jpg" alt="Profile Banner" width="900"/>
 </div>
 
 <br>
