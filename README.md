@@ -15,7 +15,7 @@
 Reze my beloved<3
 
 <div align="center">
-  <img src="https://i.pinimg.com/1200x/d4/26/40/d426405391467aa6f86a8fc3ff35b206.jpg" alt="Profile Banner" width="900"/>
+  <img src="https://imgur.com/a/fpXiceS" alt="Profile Banner" width="900"/>
 </div>
 
 <br>
