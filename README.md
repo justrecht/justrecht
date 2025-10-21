@@ -6,7 +6,7 @@
 
   [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/366208551158415361)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/jeverlyro)
-  ![Profile Views](https://komarev.com/ghpvc/?username=jeverlyro&style=flat-square&color=2F81F7)
+  ![Profile Views](https://komarev.com/ghpvc/?username=justrecht&style=flat-square&color=2F81F7)
 </div>
 
 ---
@@ -54,10 +54,10 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeverlyro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeverlyro&theme=tokyonight&hide_border=true" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=justrecht&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=justrecht&theme=tokyonight&hide_border=true" height="160px" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeverlyro&layout=compact&theme=tokyonight&hide_border=true" height="130px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justrecht&layout=compact&theme=tokyonight&hide_border=true" height="130px" />
 </div>
 
 ---
