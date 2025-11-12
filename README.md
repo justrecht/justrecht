@@ -60,8 +60,6 @@
 
 ---
 
----
-
 <div align="center">
   <i>This README was crafted with ❤️ by <b>Jeverly</b></i>
 </div>
