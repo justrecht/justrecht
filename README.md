@@ -12,11 +12,9 @@
 ---
 
 ## 💬 About Me
-- 💻 Full-Stack Developer & Mobile App Enthusiast  
-- 🎮 Beginner Game Developer exploring Lua & Roblox Studio  
-- 🎨 Passionate about UI/UX & clean minimalistic design  
-- 🌱 Currently learning backend scalability & real-time apps  
-- ❤️ Reze my beloved <3  
+- Full-Stack Developer & Mobile App Enthusiast  
+- Beginner Game Developer exploring Lua & Roblox Studio  
+- Passionate about UI/UX & clean minimalistic design 
 
 <div align="center">
   <img src="https://i.imgur.com/RMiIWID.png" alt="Profile Banner" width="900" />
@@ -61,11 +59,6 @@
 </div>
 
 ---
-
-## 🧠 Fun Facts
-- 🚀 I love building clean, minimalistic UIs that *feel alive*  
-- 🧩 I enjoy turning random ideas into working prototypes  
-- 🌌 I believe good design starts with empathy  
 - 💬 Let’s build something cool together!  
 
 ---
