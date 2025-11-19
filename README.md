@@ -72,12 +72,6 @@
   </a>
   
   <a href="https://github.com/justrecht">
-    <img src="https://streak-stats.demolab.com?user=justrecht&theme=tokyonight&hide_border=true" height="150" alt="streak graph" />
-  </a>
-  
-  <br />
-  
-  <a href="https://github.com/justrecht">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justrecht&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
   </a>
 </div>
