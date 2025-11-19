@@ -67,10 +67,10 @@
 
 <h2 align="center">📊 GitHub Statistics</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=justrecht&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=justrecht&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=justrecht&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Jeverly's Stats" />
+  <img src="https://streak-stats.demolab.com/?user=justrecht&theme=tokyonight&hide_border=true" height="165" alt="Jeverly's Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justrecht&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justrecht&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Jeverly's Top Languages" />
 </div>
 
 <br />
