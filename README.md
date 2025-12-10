@@ -4,13 +4,13 @@
 
 <div align="center">
   <a href="https://discord.com/users/366208551158415361">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="30" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="30"/>
   </a>
   <a href="https://instagram.com/jeverlyro">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30"/>
   </a>
   <a href="https://github.com/justrecht">
-    <img src="https://komarev.com/ghpvc/?username=justrecht&style=for-the-badge&color=2F81F7" height="30" />
+    <img src="https://komarev.com/ghpvc/?username=justrecht&style=for-the-badge&color=2F81F7" height="30"/>
   </a>
 </div>
 
