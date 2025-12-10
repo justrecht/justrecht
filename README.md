@@ -66,12 +66,25 @@
 <br />
 
 <h2 align="center">📊 GitHub Statistics</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=justrecht&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=justrecht&theme=tokyonight&hide_border=true" height="150" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justrecht&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+
+<div align="center" style="display: flex; gap: 0; align-items: center; justify-content: center;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=justrecht&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    height="150"
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=justrecht&theme=tokyonight&hide_border=true" 
+    height="150"
+  />
 </div>
+
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=justrecht&layout=compact&theme=tokyonight&hide_border=true" 
+    height="150"
+  />
+</div>
+
 
 <br />
 
