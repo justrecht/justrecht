@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=DM+Sans&size=32&duration=3000&pause=1000&color=f3f3f3&center=true&vCenter=true&width=500&lines=Hello,+I'm+Jeverly;Full-Stack+Developer;Beginner+Game+Dev;UI%2FUX+Designer;Mobile+App+Developer" alt="Typing SVG" />
 </div>
 
-<div align="center">
+<div style="display: flex; gap: 0;">
   <a href="https://discord.com/users/366208551158415361">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="30" />
   </a>
