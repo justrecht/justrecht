@@ -51,12 +51,6 @@
 
 <br/>
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=justrecht&theme=tokyo-night&hide_border=true&bg_color=00000000"
-/>
-
-<br/>
-
 <p align="center">
   <sub>Made with ❤️ by <b>Jeverly</b></sub>
 </p>
