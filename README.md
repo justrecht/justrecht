@@ -43,12 +43,27 @@
 ### GitHub Activity
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=justrecht&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=justrecht&theme=tokyonight&hide_border=true" height="150"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=justrecht&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="150"
+  />
+  <img 
+    src="https://streak-stats.demolab.com?user=justrecht&theme=tokyonight&hide_border=true" 
+    height="150"
+  />
+</div>
+
+<br/>
+
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=justrecht&layout=compact&theme=tokyonight&hide_border=true" 
+    height="130"
+  />
 </div>
 
 <br/>
 
 <p align="center">
-  <sub>crafted with ❤️ by <b>Jeverly</b></sub>
+  <sub>Made with ❤️ by <b>Jeverly</b></sub>
 </p>
