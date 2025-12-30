@@ -4,13 +4,7 @@
 
 <br/><br/>
 
-<a href="https://discord.com/users/366208551158415361">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="26"/>
-</a>
-<a href="https://instagram.com/jeverlyro">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="26"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=justrecht&style=for-the-badge&color=111827" height="26"/>
+<a href="https://discord.com/users/366208551158415361"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="26"/></a><a href="https://instagram.com/jeverlyro"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="26"/></a><img src="https://komarev.com/ghpvc/?username=justrecht&style=for-the-badge&color=111827" height="26"/>
 
 <br/><br/>
 
@@ -20,56 +14,40 @@
 
 ---
 
-<br/>
-
-### About
-> *Focused on clean interfaces and meaningful user experiences.*
-
-<br/>
-
-- 💻 Full-Stack & Mobile Developer  
-- 🎮 Beginner Game Dev (Lua · Roblox Studio)  
-- 🎨 Minimalist UI/UX Design  
-
-<br/>
-
----
-
 ### Tech Stack
-<br/>
 
-**Frontend / Mobile**  
-React · React Native · Next.js · Expo · TypeScript  
+<div align="center">
 
-<br/>
-
-**Backend**  
-Node.js · Express · Firebase  
+<img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/React%20Native-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-020617?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Expo-020617?style=for-the-badge&logo=expo&logoColor=white"/>
 
 <br/>
 
-**Game & Design**  
-Lua · Roblox Studio · Figma  
+<img src="https://img.shields.io/badge/TypeScript-020617?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/Node.js-020617?style=for-the-badge&logo=node.js&logoColor=3C873A"/>
+<img src="https://img.shields.io/badge/Express-020617?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-020617?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
 
 <br/>
+
+<img src="https://img.shields.io/badge/Lua-020617?style=for-the-badge&logo=lua&logoColor=2C2D72"/>
+<img src="https://img.shields.io/badge/Roblox%20Studio-020617?style=for-the-badge&logo=roblox&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-020617?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
+
+</div>
 
 ---
 
 ### GitHub Activity
-<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=justrecht&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=justrecht&theme=tokyonight&hide_border=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=justrecht&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=justrecht&theme=tokyonight&hide_border=true" height="150"/>
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justrecht&layout=compact&theme=tokyonight&hide_border=true" height="130"/>
-</div>
-
-<br/><br/>
 
 <p align="center">
   <sub>crafted with ❤️ by <b>Jeverly</b></sub>
