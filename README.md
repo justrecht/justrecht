@@ -14,9 +14,7 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=lua,js,ts,flutter,react,nextjs" height="40" alt="tech stack icons" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Roblox%20Studio-00A2FF?style=for-the-badge&logo=robloxstudio&logoColor=white" height="35" alt="Roblox Studio badge" />
+  <img src="https://skillicons.dev/icons?i=lua,js,ts,flutter,react,nextjs,robloxstudio" height="40" alt="tech stack icons" />
 </div>
 
 ###
