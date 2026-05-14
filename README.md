@@ -2,7 +2,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=justrecht&theme=tokyonight" height="150" alt="stats graph" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=justrecht&theme=tokyonight" height="150" alt="languages graph" />
 </div>
